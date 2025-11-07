@@ -10,15 +10,25 @@ This project performs **real-time image classification** using a trained `.keras
 
 OralCancerDetection/
 ├── 📁 .ipynb_checkpoints/ # Jupyter autosave files
+
 ├── 📁 DataSet/ # Dataset of oral images (healthy / cancerous)
+
 ├── 📁 venv/ # Virtual environment (ignored in Git)
+
 ├── 📄 App.py # Streamlit app for real-time detection
+
 ├── 📄 Detection.ipynb # Model training and testing notebook
+
 ├── 📄 Model.ipynb # Model building and tuning
+
 ├── 📄 my_image_classifier.keras # Trained CNN model file
+
 ├── 📄 style.css # UI styling for the app
+
 ├── 📄 Untitled.ipynb # Experimental or test notebook
+
 └── 📄 README.md # Documentation (this file)
+
 
 yaml
 Copier le code
