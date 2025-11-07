@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Oral Cancer Detection using CNN
 
 An intelligent deep learning system that detects **oral cancer** from mouth images using **Convolutional Neural Networks (CNNs)**.  
